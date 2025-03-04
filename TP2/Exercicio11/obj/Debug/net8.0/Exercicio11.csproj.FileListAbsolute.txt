@@ -1,0 +1,14 @@
+C:\Users\Leticia\source\repos\TP2\Exercicio11\bin\Debug\net8.0\Exercicio11.exe
+C:\Users\Leticia\source\repos\TP2\Exercicio11\bin\Debug\net8.0\Exercicio11.deps.json
+C:\Users\Leticia\source\repos\TP2\Exercicio11\bin\Debug\net8.0\Exercicio11.runtimeconfig.json
+C:\Users\Leticia\source\repos\TP2\Exercicio11\bin\Debug\net8.0\Exercicio11.dll
+C:\Users\Leticia\source\repos\TP2\Exercicio11\bin\Debug\net8.0\Exercicio11.pdb
+C:\Users\Leticia\source\repos\TP2\Exercicio11\obj\Debug\net8.0\Exercicio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leticia\source\repos\TP2\Exercicio11\obj\Debug\net8.0\Exercicio11.AssemblyInfoInputs.cache
+C:\Users\Leticia\source\repos\TP2\Exercicio11\obj\Debug\net8.0\Exercicio11.AssemblyInfo.cs
+C:\Users\Leticia\source\repos\TP2\Exercicio11\obj\Debug\net8.0\Exercicio11.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\source\repos\TP2\Exercicio11\obj\Debug\net8.0\Exercicio11.dll
+C:\Users\Leticia\source\repos\TP2\Exercicio11\obj\Debug\net8.0\refint\Exercicio11.dll
+C:\Users\Leticia\source\repos\TP2\Exercicio11\obj\Debug\net8.0\Exercicio11.pdb
+C:\Users\Leticia\source\repos\TP2\Exercicio11\obj\Debug\net8.0\Exercicio11.genruntimeconfig.cache
+C:\Users\Leticia\source\repos\TP2\Exercicio11\obj\Debug\net8.0\ref\Exercicio11.dll

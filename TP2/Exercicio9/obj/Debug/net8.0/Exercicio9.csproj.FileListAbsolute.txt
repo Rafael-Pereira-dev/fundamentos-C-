@@ -1,0 +1,14 @@
+C:\Users\Leticia\source\repos\TP2\Exercicio9\bin\Debug\net8.0\Exercicio9.exe
+C:\Users\Leticia\source\repos\TP2\Exercicio9\bin\Debug\net8.0\Exercicio9.deps.json
+C:\Users\Leticia\source\repos\TP2\Exercicio9\bin\Debug\net8.0\Exercicio9.runtimeconfig.json
+C:\Users\Leticia\source\repos\TP2\Exercicio9\bin\Debug\net8.0\Exercicio9.dll
+C:\Users\Leticia\source\repos\TP2\Exercicio9\bin\Debug\net8.0\Exercicio9.pdb
+C:\Users\Leticia\source\repos\TP2\Exercicio9\obj\Debug\net8.0\Exercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leticia\source\repos\TP2\Exercicio9\obj\Debug\net8.0\Exercicio9.AssemblyInfoInputs.cache
+C:\Users\Leticia\source\repos\TP2\Exercicio9\obj\Debug\net8.0\Exercicio9.AssemblyInfo.cs
+C:\Users\Leticia\source\repos\TP2\Exercicio9\obj\Debug\net8.0\Exercicio9.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\source\repos\TP2\Exercicio9\obj\Debug\net8.0\Exercicio9.dll
+C:\Users\Leticia\source\repos\TP2\Exercicio9\obj\Debug\net8.0\refint\Exercicio9.dll
+C:\Users\Leticia\source\repos\TP2\Exercicio9\obj\Debug\net8.0\Exercicio9.pdb
+C:\Users\Leticia\source\repos\TP2\Exercicio9\obj\Debug\net8.0\Exercicio9.genruntimeconfig.cache
+C:\Users\Leticia\source\repos\TP2\Exercicio9\obj\Debug\net8.0\ref\Exercicio9.dll
