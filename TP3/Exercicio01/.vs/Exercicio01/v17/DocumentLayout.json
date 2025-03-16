@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leticia\\source\\repos\\TP3\\Exercicio01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26ADE8D2-2B56-4455-A8AE-5B76C7666465}|..\\Exercicio04\\Exercicio04.csproj|c:\\users\\leticia\\source\\repos\\tp3\\exercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leticia\\source\\repos\\TP3\\Exercicio04\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exercicio04\\Program.cs",
+              "ToolTip": "C:\\Users\\Leticia\\source\\repos\\TP3\\Exercicio04\\Program.cs",
+              "RelativeToolTip": "..\\Exercicio04\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T03:00:55.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

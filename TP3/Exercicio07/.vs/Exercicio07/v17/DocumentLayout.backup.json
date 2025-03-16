@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leticia\\source\\repos\\TP3\\Exercicio07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88D8D3A4-413D-4422-99E2-B0C25FB493D2}|..\\Exercicio12\\Exercicio12.csproj|c:\\users\\leticia\\source\\repos\\tp3\\exercicio12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843D24DD-5DE5-47A9-83A0-EE1DB710DE6A}|..\\Exercicio11\\Exercicio11.csproj|c:\\users\\leticia\\source\\repos\\tp3\\exercicio11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leticia\\source\\repos\\TP3\\Exercicio12\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exercicio12\\Program.cs",
+              "ToolTip": "C:\\Users\\Leticia\\source\\repos\\TP3\\Exercicio12\\Program.cs*",
+              "RelativeToolTip": "..\\Exercicio12\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:00:30.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leticia\\source\\repos\\TP3\\Exercicio11\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exercicio11\\Program.cs",
+              "ToolTip": "C:\\Users\\Leticia\\source\\repos\\TP3\\Exercicio11\\Program.cs",
+              "RelativeToolTip": "..\\Exercicio11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:54:44.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
